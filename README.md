@@ -1,4 +1,3 @@
-::: {align="center"}
 # 👋 ¡Hola! Soy Valentín Sánchez Martínez
 
 ### Backend Developer Trainee / Junior · Python · FastAPI · Inteligencia Artificial
@@ -165,7 +164,6 @@ Streak](https://streak-stats.demolab.com?user=VSMartinezcpp&theme=tokyonight&hid
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
 💬 *Siempre aprendiendo, construyendo y mejorando como desarrollador.*
 
 ![Profile
