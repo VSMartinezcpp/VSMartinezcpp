@@ -144,7 +144,6 @@ e inteligencia artificial · 2026
 
 ## 📊 Actividad en GitHub
 
-::: {align="center"}
 ![GitHub
 Stats](https://github-readme-stats.vercel.app/api?username=VSMartinezcpp&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github)
 
@@ -168,4 +167,4 @@ Streak](https://streak-stats.demolab.com?user=VSMartinezcpp&theme=tokyonight&hid
 
 ![Profile
 views](https://komarev.com/ghpvc/?username=VSMartinezcpp&style=flat-square&color=087E8B)
-:::
+
